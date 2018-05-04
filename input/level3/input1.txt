@@ -1,0 +1,3 @@
+ICQueenStrength= 3
+NecPolFileEnable= true
+NecPolFileName= C:/Users/AKanarek/Documents/BeePop/analysis_im_wrap_5.3.18/input/level3.csv
